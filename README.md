@@ -3,4 +3,4 @@ my C++ implementation of 'Ray Tracing In One Weekend' https://raytracing.github.
 
 current image:
 
-<img src="image.ppm" alt="drawing" width="200"/>
+<img src="image.ppm" width="200"/>
