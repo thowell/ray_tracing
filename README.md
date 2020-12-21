@@ -3,4 +3,4 @@ my C++ implementation of 'Ray Tracing In One Weekend' https://raytracing.github.
 
 current image:
 
-![](image.ppm?raw=true)
+![](image.png?raw=true)
